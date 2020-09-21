@@ -1,2 +1,2 @@
-# ashleightaylor.github.io
- AFC Website
+# afc.github.io
+ Website for the Cambridge AFC.
